@@ -1,2 +1,6 @@
 # Test
-First repository
+My First repository
+
+g++ doug.cpp
+
+run ./a.out
