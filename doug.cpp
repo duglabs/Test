@@ -1,7 +1,10 @@
-#include <iostream.h>
+#include <iostream>
+using namespace std;
 
-main()
+// main() is where program execution begins.
+
+int main()
 {
-    cout << "Hello World!";
-    return 0;
+   cout << "Hello World"; // prints Hello World
+   return 0;
 }
